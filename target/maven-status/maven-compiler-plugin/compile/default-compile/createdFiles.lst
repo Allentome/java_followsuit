@@ -1,0 +1,7 @@
+com\allen\followsuit\controller\GoodsController.class
+com\allen\followsuit\entity\Goods.class
+com\allen\followsuit\FollowsuitApplication.class
+com\allen\followsuit\service\GoodsService.class
+com\allen\followsuit\dao\GoodsDao.class
+com\allen\followsuit\common\Result.class
+com\allen\followsuit\common\WebMvcConfig.class
